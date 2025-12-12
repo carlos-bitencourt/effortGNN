@@ -21,4 +21,8 @@ EffortGNN is a framework for estimating story points using Graph Neural Networks
 ---
 
 The system is fully aligned with the methodology described in the associated research paper:
-Combining Textual Embeddings and Graph Neural Networks for Agile Software Effort Estimation
+
+Carlos Bitencourt, Marcelo A. S. Turine, Vanessa A. Borges, and Bruno M. Nogueira. 2026. 
+Combining Textual Embeddings and Graph Neural Networks for Agile Software Effort Estimation. 
+In The 41st ACM/SIGAPP Symposium on Applied Computing (SAC ’26), March 23–27, 2026, Thessaloniki, Greece. 
+ACM, New York, NY, USA, 8 pages. https://doi.org/10.1145/3748522.3780007
